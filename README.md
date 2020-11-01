@@ -1,1 +1,1 @@
-# IBM-Certificate-Capstone
+# Traffic Collsion Severity Prediction
